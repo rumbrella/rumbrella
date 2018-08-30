@@ -8,6 +8,6 @@ do
 	fi	
 	echo $F 
 	cd $F 
-	(cargo package && cargo publish)
+	(cargo package --allow-dirty && cargo publish --allow-dirty) 
 	cd .. 
 done

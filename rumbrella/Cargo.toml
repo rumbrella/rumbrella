@@ -3,4 +3,8 @@ name = "rumbrella"
 version = "0.1.0"
 authors = ["Gerald E. Butler <gerald.edward.butler@gmail.com>"]
 
+description = "Part of the Rumbrella Project - more to come"
+
+license-file = "license.txt"
+
 [dependencies]
