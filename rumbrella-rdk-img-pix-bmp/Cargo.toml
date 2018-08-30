@@ -1,0 +1,6 @@
+[package]
+name = "rumbrella-rdk-img-pix-bmp"
+version = "0.1.0"
+authors = ["Gerald E. Butler <gerald.edward.butler@gmail.com>"]
+
+[dependencies]

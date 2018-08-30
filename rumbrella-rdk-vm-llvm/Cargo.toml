@@ -1,0 +1,6 @@
+[package]
+name = "rumbrella-rdk-vm-llvm"
+version = "0.1.0"
+authors = ["Gerald E. Butler <gerald.edward.butler@gmail.com>"]
+
+[dependencies]

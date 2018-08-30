@@ -1,0 +1,6 @@
+[package]
+name = "rumbrella-rdk-doc-msooxml"
+version = "0.1.0"
+authors = ["Gerald E. Butler <gerald.edward.butler@gmail.com>"]
+
+[dependencies]
